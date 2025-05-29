@@ -1,4 +1,5 @@
-Hello all, 
+Hello all,
+
 This tool scan all exposed public keys from " https://bitcoin.oni.su/satoshi_address.html "
 
 If there´s a match, private key will be saved in .TXT file.
